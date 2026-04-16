@@ -123,9 +123,14 @@ cursor: pointer;
     }
 
     div {
+        
         text-align: center;
     }
     p {
-        width: 90%;
+        text-align: center;
+        width: 100%;
     }
+    
+    
+    
 }
