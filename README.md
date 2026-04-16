@@ -19,6 +19,6 @@ Este projeto consiste em uma landing page moderna e totalmente responsiva, desen
 
 ## 🖇️ Links
 
-Repositório: ithub.com/DevLuan1345/Wide
+Repositório: github.com/DevLuan1345/Wide
 
 Deploy do Projeto: https://devluan1345.github.io/Wide/
