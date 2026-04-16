@@ -1,6 +1,6 @@
 ## ✨ Landing Page Wide
 
-Este projeto consiste em uma landing page moderna e totalmente responsiva, desenvolvida com foco em um layout amplo (wide) 📐, proporcionando melhor aproveitamento do espaço e uma experiência visual mais imersiva para o usuário.
+Este projeto consiste em uma landing page moderna e totalmente responsiva, desenvolvida com foco em um layout amplo(wide), proporcionando melhor aproveitamento do espaço e uma experiência visual mais imersiva para o usuário.
 
 ## 🎨 A interface
 
