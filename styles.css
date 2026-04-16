@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    width: 100%;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.link-header {
+font-weight: 400;
+font-size: 20px;
+line-height: 82px;
+letter-spacing: 0.875px;
+text-align: center;
+color: #17233D;
+margin-right: 32px;
+}
+
+.btn-sign {
+width: 124px;
+height: 51px;
+font-weight: 500;
+font-size: 20px;
+line-height: 33px;
+letter-spacing: 1px;
+background: #6FBF44;
+color: #FFFFFF;
+border-radius: 6px;
+cursor: pointer;
+border: 1px solid #4CB538;
+}
+
+.btn-sign:hover {
+    background: #7CFC00;
+}
+
+main  {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px; 
+    width: 100%;
+    margin: 0 auto;
+    padding: 80px;
+}
+
+
+img {
+    width: 450px;
+    max-width: 100%;
+    margin: 0; 
+}
+
+div {
+    max-width: 500px;
+    width: 100%;
+    margin: 0;
+}
+
+h1 {
+
+font-weight: 700;
+font-size: 62px;
+line-height: 82px;
+letter-spacing: 0.596154px;
+color: #161A49;
+}
+
+p {
+width: 493px;
+font-weight: 400;
+font-size: 20px;
+line-height: 33px;
+letter-spacing: 0.5px;
+color: #4B505A;
+margin-top: 47px;
+margin-bottom: 55px;
+
+}
+
+.btn-learn {
+width: 112px;
+height: 27px;
+font-weight: 500;
+font-size: 20px;
+line-height: 33px;
+letter-spacing: 1px;
+background: transparent;
+color: #6FBF44;
+border: none;
+cursor: pointer;
+}
+
+@media (max-width: 768px) {
+
+    header {
+        width: 100%;
+        flex-direction: column;
+        text-align: center;
+        padding: 20px;
+    }
+
+    main {
+       flex-direction: column;
+        text-align: center;
+        padding: 20px;
+    }
+
+    main img {
+        width: 100%;
+        max-width: 280px
+    }
+
+    div {
+        text-align: center;
+    }
+    p {
+        width: 90%;
+    }
+}
