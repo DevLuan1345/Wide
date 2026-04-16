@@ -8,7 +8,7 @@ Este projeto consiste em uma landing page moderna e totalmente responsiva, desen
 
 ## 💻 Desenvolvimento
 
- O projeto aplica boas práticas de estruturação e estilização, além de garantir responsividade 📱💻, adaptando-se perfeitamente a diferentes tamanhos de tela.
+ O projeto aplica boas práticas de estruturação e estilização, além de garantir responsividade, adaptando-se perfeitamente a diferentes tamanhos de tela.
 
  ## 🔮 Tecnologias Utilizadas
 
